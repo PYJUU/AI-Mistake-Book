@@ -5,7 +5,7 @@
 
 ## 主要功能
 
-- **AI 智能录入**：支持文本解析，方便快速录入错题，当然也可以是练习题目
+- **AI 智能录入**：支持文本解析，方便快速录入错题，也可以是练习题目
 - **间隔重复算法**：基于加权算法的智能复习计划
 - **用户认证**：JWT安全认证系统
 - **数据持久化**：SQLite本地数据库存储
@@ -15,7 +15,7 @@
 - **前端**：React 19 + Vite + TypeScript + Tailwind CSS
 - **后端**：Express + TypeScript
 - **数据库**：SQLite (better-sqlite3)
-- **AI**：建议使用Google Gemini API 当然也可以使用其他模型，当前支持/chat/completions的格式
+- **AI**：建议使用Google Gemini API ，当然也可以使用其他模型，支持/chat/completions的格式
 - **认证**：JWT
 
 ## 快速开始
