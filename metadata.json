@@ -1,0 +1,6 @@
+{
+  "name": "专属错题本 (AI Mistake Book)",
+  "description": "An AI-powered application for managing and practicing mistaking questions. Supports OCR/text parsing via AI and utilizes spaced repetition with a weighted algorithm for optimized practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
